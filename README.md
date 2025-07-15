@@ -5,7 +5,7 @@
 ![Database](https://img.shields.io/badge/Database-MariaDB-lightgrey)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-A full-stack, secure, and beautifully modern **URL Shortener** built with **Spring Boot** and **vanilla HTML/CSS**, featuring JWT authentication and user-specific URL tracking — no NPM or frontend frameworks needed.
+A full-stack, secure, and beautifully modern **URL Shortener** built with **Spring Boot** and **vanilla HTML/CSS*, featuring JWT authentication and user-specific URL tracking — no NPM or frontend frameworks needed.
 
 ---
 
